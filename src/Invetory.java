@@ -4,9 +4,9 @@ import java.util.Scanner;
 /**
  * Created by MattBrown on 10/13/15.
  */
-public class Invetory {
+public class Inventory {
     public static void main(String[] args){
-        ArrayList<InventoryItem> inventory = new ArrayList()
+        ArrayList<InventoryItem> inventory = new ArrayList();
         Scanner scanner = new Scanner(System.in);
 
         while (true) {
